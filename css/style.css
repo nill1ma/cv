@@ -72,3 +72,7 @@ section div.employment-history div {
 .employment-history div span:nth-child(1) {
 	font-weight: bold;
 }
+
+section .employment-history ul {
+	padding: 0;
+}
